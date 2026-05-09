@@ -1,3 +1,13 @@
+---
+title: EventSY
+emoji: 🎫
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 8000
+pinned: false
+---
+
 # EventSY — Syria's Event Booking Platform
 
 ![Laravel](https://img.shields.io/badge/Laravel-13.x-FF2D20?style=flat&logo=laravel&logoColor=white)
